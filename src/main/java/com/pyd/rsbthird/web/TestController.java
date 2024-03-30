@@ -1,5 +1,7 @@
 package com.pyd.rsbthird.web;
 
+import org.springframework.stereotype.Controller;
+
 /**
  * @ClassName TestController
  * @Package com.pyd.rsbthird.web
@@ -8,5 +10,6 @@ package com.pyd.rsbthird.web;
  * @Date 2024-03-30 10:25
  * @Version 1.0.0
  **/
+@Controller
 public class TestController {
 }
