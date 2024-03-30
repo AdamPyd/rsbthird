@@ -12,4 +12,11 @@ import org.springframework.stereotype.Controller;
  **/
 @Controller
 public class TestController {
+    /**
+     * test
+     * @param args
+     */
+    public static void main(String[] args) {
+
+    }
 }
